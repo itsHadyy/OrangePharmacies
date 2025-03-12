@@ -1,0 +1,15 @@
+:root{
+    --blue: #10125A;
+    --green: #0D9C4A;
+    --lightGray: #D9D9D9;
+    --gray: #828282;
+    --darkGray: #363636;
+    --white: #fff;
+    --black: #000;
+    --orange: #F47920;
+  }
+  
+  body{
+    background-color: var(--white);
+    color: var(--green);
+  }

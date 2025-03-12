@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 129.68 23.61">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Lato-Regular, Lato;
+        font-size: 14.7px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #054163;
+      }
+
+      .cls-3 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-4 {
+        fill: #8bcbef;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-7 {
+        fill: #539ad3;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <g>
+        <path class="cls-2" d="M9.44,11.59v-2.22H2.36c-.62,0-1.21.27-1.65.72C.25,10.6,0,11.26,0,11.95c.11,1.26,1.17,2.23,2.43,2.22h7.01v7.08c0,1.36,1.22,2.43,2.51,2.36,1.26-.11,2.22-1.17,2.22-2.43v-7.01h-2.22c-1.4-.02-2.52-1.17-2.51-2.58Z"/>
+        <path class="cls-4" d="M23.53,11.59c-.11-1.26-1.17-2.22-2.43-2.22h-7.01V2.36C14.09,1,12.87-.07,11.59,0c-1.26.11-2.22,1.17-2.21,2.43v7.01h2.21c1.38.02,2.49,1.13,2.5,2.5v2.22h7.08c.64,0,1.22-.29,1.64-.72.48-.5.74-1.17.72-1.86Z"/>
+        <path class="cls-7" d="M11.59,9.44h-2.21v2.22c.02,1.38,1.13,2.49,2.5,2.5h2.22v-2.22c.02-.67-.24-1.31-.72-1.79-.47-.47-1.12-.73-1.79-.72h0Z"/>
+      </g>
+      <text class="cls-1" transform="translate(29.25 17.31)"><tspan class="cls-6" x="0" y="0">R</tspan><tspan x="8.73" y="0">elian</tspan><tspan class="cls-5" x="39" y="0">c</tspan><tspan x="45.89" y="0">e </tspan><tspan class="cls-3" x="57.42" y="0">H</tspan><tspan x="68.42" y="0">ealth</tspan></text>
+    </g>
+  </g>
+</svg>
