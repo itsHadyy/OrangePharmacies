@@ -31,7 +31,9 @@ function Navbar() {
 
     return (
         <header className="navbar">
-            <img src={logo} className="logo" alt="logo" />
+            <Link to="/">
+                <img src={logo} className="logo" alt="Orange Pharmacies Logo" />
+            </Link>
             <FaBars className="burger-icon" onClick={toggleMenu} />
 
             <nav ref={sidebarRef} className={`sidebar ${isOpen ? 'open' : ''}`}>
