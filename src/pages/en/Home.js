@@ -98,7 +98,7 @@ function Home() {
                 <Slider direction="left" />
 
                 <span>
-                    <Link to="/about">
+                    <Link to="/insurance">
                         Learn More
                         <span className="material-symbols-outlined">
                             arrow_right_alt

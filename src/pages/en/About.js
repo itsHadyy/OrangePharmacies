@@ -1,11 +1,8 @@
 import Slideshow from '../../components/en/Slideshow';
-import Slider from '../../components/en/Slider';
 import { Link } from 'react-router-dom';
 
 function About() {
     const img01 = '/media/bannersEnglish/about-us-first-p.png';
-    const img02 = '/media/GooglePlay.png';
-    const img03 = '/media/AppStore.png';
     return (
         <div className="sub">
             <Slideshow />

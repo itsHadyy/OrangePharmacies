@@ -1,11 +1,12 @@
 import { useState, useEffect, useRef } from 'react';
 import { FaBars, FaTimes } from 'react-icons/fa';
+import { Link, useLocation } from 'react-router-dom';
 import logo from '../../logo.png';
-import { Link } from 'react-router-dom';
 
 function Navbar() {
     const [isOpen, setIsOpen] = useState(false);
     const sidebarRef = useRef(null);
+    const location = useLocation();
 
     const toggleMenu = () => {
         setIsOpen(!isOpen);
@@ -29,6 +30,16 @@ function Navbar() {
         };
     }, [isOpen]);
 
+    const navLinks = [
+        { name: "Home", path: "/" },
+        { name: "About Us", path: "/about" },
+        { name: "Locations", path: "/locations" },
+        { name: "Shop", path: "/shop" },
+        { name: "Services", path: "/services" },
+        { name: "Insurance Companies", path: "/insurance" },
+        { name: "Contact Us", path: "/contact" },
+    ];
+
     return (
         <header className="navbar">
             <Link to="/">
@@ -39,13 +50,15 @@ function Navbar() {
             <nav ref={sidebarRef} className={`sidebar ${isOpen ? 'open' : ''}`}>
                 <FaTimes className="close-icon" onClick={toggleMenu} />
                 <ul>
-                    <li><Link to="/">Home</Link></li>
-                    <li><Link to="/about">About Us</Link></li>
-                    <li><Link to="/locations">Locations</Link></li>
-                    <li><Link to="/shop">Shop</Link></li>
-                    <li><Link to="/services">Services</Link></li>
-                    <li><Link to="/insurance">Insurance Companies</Link></li>
-                    <li><Link to="/contact">Contact Us</Link></li>
+                    {navLinks.map(({ name, path }) => (
+                        <li key={path}>
+                            {location.pathname === path ? (
+                                <span className="active-link">{name}</span>
+                            ) : (
+                                <Link to={path} onClick={toggleMenu}>{name}</Link>
+                            )}
+                        </li>
+                    ))}
                 </ul>
             </nav>
         </header>
