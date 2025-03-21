@@ -714,3 +714,8 @@ form .arrow {
 .email {
   color: blue;
 }
+
+.locations{
+  text-align: center;
+  padding: 40px 80px;
+}
