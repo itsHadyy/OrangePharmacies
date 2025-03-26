@@ -660,7 +660,7 @@ a {
   font-weight: bold;
 }
 
-.phone-group .arrow{
+.phone-group .arrow {
   left: 70px;
 }
 
@@ -691,12 +691,12 @@ form .arrow {
 
 /* Contact Info Section */
 
-.infoContainer{
+.infoContainer {
   padding: 40px 80px;
   display: flex;
 }
 
-.infoContainer table{
+.infoContainer table {
   width: 50%;
   margin-top: 20px;
 }
@@ -706,7 +706,7 @@ form .arrow {
   padding-bottom: 20px;
 }
 
-.infoContainer svg{
+.infoContainer svg {
   margin-right: 20px;
 }
 
@@ -715,7 +715,7 @@ form .arrow {
   margin-top: 20px;
 }
 
-.contact-info img{
+.contact-info img {
   width: 200px !important;
 }
 
@@ -735,12 +735,32 @@ form .arrow {
   color: blue;
 }
 
-.locations{
+.locations {
   text-align: center;
   padding: 40px 80px;
 }
 
-.hand-phone img{
+.hand-phone img {
   position: absolute;
   left: 0;
+}
+
+.ar {
+  direction: rtl;
+}
+
+.ar p {
+  text-align: justify !important;
+}
+
+.ar span span {
+  transform: rotate(180deg) translateY(-4px);
+}
+
+.ar-center{
+  text-align: center !important;
+}
+
+.ar-center .cardContent{
+  min-height: 170px;
 }
