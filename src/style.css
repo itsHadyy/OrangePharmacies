@@ -690,14 +690,33 @@ form .arrow {
 }
 
 /* Contact Info Section */
-.contact-info {
-  text-align: center;
+
+.infoContainer{
+  padding: 40px 80px;
+  display: flex;
+}
+
+.infoContainer table{
+  width: 50%;
   margin-top: 20px;
 }
 
-.logo {
-  height: 50px;
-  margin-bottom: 10px;
+.infoContainer td {
+  vertical-align: top;
+  padding-bottom: 20px;
+}
+
+.infoContainer svg{
+  margin-right: 20px;
+}
+
+.contact-info {
+  text-align: left;
+  margin-top: 20px;
+}
+
+.contact-info img{
+  width: 200px !important;
 }
 
 .address,
