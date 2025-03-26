@@ -294,6 +294,7 @@ a {
   text-align: center;
   display: grid;
   grid-template-columns: 1fr 1fr;
+  min-height: 700px;
 }
 
 .appStoreContainer {
@@ -718,4 +719,9 @@ form .arrow {
 .locations{
   text-align: center;
   padding: 40px 80px;
+}
+
+.hand-phone img{
+  position: absolute;
+  left: 0;
 }

@@ -6,6 +6,7 @@ function Home() {
     const img01 = '/media/bannersEnglish/about-us-first-p.png';
     const img02 = '/media/GooglePlay.png';
     const img03 = '/media/AppStore.png';
+    const img04 = '/media/hand-phone.png';
     return (
         <div className="App">
             <Slideshow />
@@ -28,7 +29,7 @@ function Home() {
                     </span>
                 </div>
                 <div>
-                    <img src={img01} alt="" />
+                    <img src={img01} alt="Orange Pharmacies" />
                 </div>
             </div>
 
@@ -73,8 +74,8 @@ function Home() {
             </div>
 
             <div className='home03'>
-                <div>
-
+                <div className='hand-phone'> 
+                    <img src={img04} alt="Orange Pharmacies" />
                 </div>
                 <div>
                     <h1>Download Our App Now!</h1>
@@ -82,11 +83,11 @@ function Home() {
                         Lorem ipsum dolor sit amet consectetur. Turpis feugiat pellentesque elementum a lorem pretium. Vitae eu rhoncus vivamus ultrices placerat est dui. Ut aliquet amet tempus facilisis ullamcorper dolor sem. Blandit dolor sociis quam turpis. Eget sit at nibh sagittis amet vulputate.
                     </p>
                     <div className='appStoreContainer'>
-                        <a href='https://www.apple.com/app-store/' target='_blank'>
-                            <img src={img02} alt="" />
+                        <a href='https://www.apple.com/app-store/' target=''>
+                            <img src={img02} alt="Orange Pharmacies" />
                         </a>
-                        <a href='https://www.apple.com/app-store/' target='_blank'>
-                            <img src={img03} alt="" />
+                        <a href='https://www.apple.com/app-store/' target=''>
+                            <img src={img03} alt="Orange Pharmacies" />
                         </a>
                     </div>
                 </div>
