@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import { useState } from "react";
 
 function ArInsurance() {
-    const img01 = '/media/bannersEnglish/INSURANCE-IN.png';
+    const img01 = '/media/bannersArabic/INSURANCE-IN.png';
 
     const images = [
         "/media/insuranceLogos/axa.svg",
@@ -60,7 +60,7 @@ function ArInsurance() {
             </div>
 
             <div className='incuranceContainer'>
-                <h1>Insurance Companies</h1>
+                <h1>شركات التأمين</h1>
                 <div className="insuranceLogosContainer">
                     <div className="grid">
                         {displayedLogos.map((src, index) => (

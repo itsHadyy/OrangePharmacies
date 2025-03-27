@@ -1,5 +1,5 @@
 function ArContact() {
-    const img01 = '/media/bannersEnglish/CALL-CENTER-IN.png';
+    const img01 = '/media/bannersArabic/call-C-in.png';
     const img02 = '/media/logo.png';
     return (
         <div className="sub">
@@ -8,17 +8,17 @@ function ArContact() {
             </div>
 
             <form>
-                <div className="contact-container">
-                    <h1>Contact Us</h1>
+                <div className="contact-container ar">
+                    <h1>أتصل بنا</h1>
 
                     <div className="contact-form">
                         <div className="input-group">
-                            <input type="text" placeholder="First Name" className="input-field" />
-                            <input type="text" placeholder="Last Name" className="input-field" />
+                            <input type="text" placeholder="الإسم الأول" className="input-field" />
+                            <input type="text" placeholder="اسم العائلة" className="input-field" />
                         </div>
 
                         <div className="input-group">
-                            <input type="email" placeholder="E-mail Address" className="input-field " />
+                            <input type="email" placeholder="الإيميل" className="input-field " />
                         </div>
 
                         <div className="input-group">
@@ -31,22 +31,22 @@ function ArContact() {
                                 </select>
                                 <span className="arrow">&#9662;</span>
                                 <span className="divider">|</span>
-                                <input type="text" placeholder="Phone Number" className="input-field phone-input" />
+                                <input type="text" placeholder="رقم الهاتف" className="input-field phone-input" />
                             </div>
 
                             {/* City Dropdown */}
-                            <div className="city-group">
+                            <div className="city-group ar-city">
                                 <select className="input-field city-input">
-                                    <option>City</option>
-                                    <option>Cairo</option>
-                                    <option>Alexandria</option>
+                                    <option>المدينة</option>
+                                    <option>القاهرة</option>
+                                    <option>الإسكندرية</option>
                                 </select>
                                 <span className="arrow">&#9662;</span>
                             </div>
                         </div>
 
                         <div className="input-group">
-                            <textarea placeholder="Write your message here..." className="input-field textarea"></textarea>
+                            <textarea placeholder=" رسالة..." className="input-field textarea"></textarea>
                         </div>
 
                         <button className="send-button btn">Send</button>

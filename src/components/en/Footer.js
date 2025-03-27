@@ -36,6 +36,14 @@ const Footer = () => {
                         <i className="fab fa-tiktok"></i>
                         <i className="fab fa-x-twitter"></i>
                     </div>
+                    <div className="lang">
+                        <Link to="/">
+                            <button className="btn">English</button>
+                        </Link>
+                        <Link to="/ar">
+                            <button className="btn">العربية</button>
+                        </Link>
+                    </div>
                 </div>
 
                 {/* Contact Section */}

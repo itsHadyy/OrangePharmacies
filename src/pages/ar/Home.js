@@ -99,7 +99,7 @@ function ArHome() {
                 <Slider direction="left" />
 
                 <span>
-                    <Link to="/insurance">
+                    <Link to="/ar-insurance">
                         المزيد
                         <span className="material-symbols-outlined">
                             arrow_right_alt

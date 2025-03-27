@@ -664,6 +664,14 @@ a {
   left: 70px;
 }
 
+.ar .arrow{
+  right: 70px;
+}
+
+.ar-city .arrow{
+  right: 120px;
+}
+
 form .arrow {
   position: absolute;
   right: 24px;
@@ -763,4 +771,16 @@ form .arrow {
 
 .ar-center .cardContent{
   min-height: 170px;
+}
+
+.lang .btn{
+  font-size: 18px;
+  padding: 10px 30px;
+  border: 2px solid var(--blue);
+}
+
+.lang{
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
