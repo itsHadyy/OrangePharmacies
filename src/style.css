@@ -784,3 +784,11 @@ form .arrow {
   align-items: center;
   justify-content: center;
 }
+
+.ar .cardContent{
+  min-height: 265px;
+}
+
+.ar .cardContent p{
+  text-align: center !important;
+}

@@ -1,85 +1,111 @@
 function Services() {
-    const img01 = '/media/bannersEnglish/INSURANCE-SLIDER.png';
+    const img01 = '/media/bannersArabic/insur-main-S.png';
     return (
         <div className="sub">
             <div className='banner'>
-                <img src={img01} alt="" />
+                <img src={img01} alt="Insurance Banner" />
             </div>
 
             <div className='incuranceContainer'>
-                <h1>Services</h1>
-                <div className='servicesContainer'>
+                <h1>خدماتنا</h1>
+                <div className='servicesContainer ar'>
                     <div className='card'>
-                        <h2>1 Hotline Service <br /> (19001)</h2>
+                        <h2>خدمة الخط الساخن <br /> (19001)</h2>
                         <div className='cardContent'>
                             <p>
-                                Receiving customer calls and delivery requests and instantly forwarding them to pharmacies for efficient execution.
+                                استقبال مكالمات العملاء وطلبات التوصيل وتحويلها مباشرة للصيدليات لتنفيذها بسهولة وسرعة.
                             </p>
                         </div>
                     </div>
                     <div className='card'>
-                        <h2>2 Integration with Medical <br />
-                            Insurance Networks</h2>
+                        <h2>التكامل مع شبكات <br />
+                            التأمين الطبي</h2>
                         <div className='cardContent'>
-                            <p>
-                                Receiving customer calls and delivery requests and instantly forwarding them to pharmacies for efficient execution.
-                            </p>
+                            <ul>
+                                <li>
+                                    ربط الصيدليات بشركات التأمين الطبي الكبرى عبر كيان واحد، مما يوفر الوقت والجهد.
+                                </li>
+                                <li>
+                                    إدارة المطالبات بكفاءة من خلال فريق متخصص لضمان السرعة والدقة.
+                                </li>
+                                <li>
+                                    توفير حلول سداد مرنة لدعم السيولة المالية للصيدليات.
+                                </li>
+                                <li>
+                                    تسهيل عمليات صرف الأدوية داخل الصيدليات عبر التأمين الطبي، مما يزيد من رضا العملاء ويعزز المبيعات.
+                                </li>
+                            </ul>
                         </div>
                     </div>
                     <div className='card'>
-                        <h2>3 Digital Transformation & <br />
-                            Innovative Technologies</h2>
+                        <h2>التحول الرقمي والتقنيات <br />
+                            المبتكرة</h2>
                         <div className='cardContent'>
-                            <p>
-                                Offering tools like the Orange Pharmacies App to streamline pharmacy operations and improve efficiency.
-                                Developing a robust digital infrastructure to support online orders, loyalty programs, and seamless communication.
-                            </p>
+                            <ul>
+                                <li>
+                                    تقديم أدوات مثل تطبيق Orange Pharmacies لتسهيل العمليات وتحسين كفاءة الصيدليات.
+                                </li>
+                                <li>
+                                    تطوير بنية تحتية رقمية تدعم الطلبات الإلكترونية وبرامج الولاء والتواصل الفعّال.
+                                </li>
+                            </ul>
                         </div>
                     </div>
                     <div className='card'>
-                        <h2>4 Marketing Support & <br />
-                            Market Expansion</h2>
+                        <h2>الدعم التسويقي والتوسع <br />
+                            في السوق</h2>
                         <div className='cardContent'>
-                            <p>
-                                Providing marketing solutions for pharmacies to raise awareness about insurance-based prescription services and attract more customers.
-                                Helping pharmacies build their brand and strengthen their market presence.
-                            </p>
+                            <ul>
+                                <li>
+                                    تقديم حلول تسويقية للصيدليات لزيادة الوعي بخدمات التأمين الطبي وجذب المزيد من العملاء.
+                                </li>
+                                <li>
+                                    مساعدة الصيدليات في بناء علامتها التجارية وتعزيز حضورها في السوق.
+                                </li>
+                            </ul>
                         </div>
                     </div>
                     <div className='card'>
-                        <h2>5 Pharmacist Training & <br />
-                            Development</h2>
+                        <h2>التدريب والتأهيل <br />
+                            للصيادلة</h2>
                         <div className='cardContent'>
-                            <p>
-                                Conducting regular training programs on prescription handling and insurance procedures to ensure smooth service activation.
-                                Offering ongoing technical support to ensure compliance with insurance regulations and best practices.
-                            </p>
+                            <ul>
+                                <li>
+                                    تقديم برامج تدريبية دورية حول آليات الصرف والتعامل مع التأمين لضمان سهولة تفعيل الخدمة.
+                                </li>
+                                <li>
+                                    دعم فني مستمر لضمان الامتثال لمتطلبات التأمين الطبي وتحقيق أفضل النتائج.
+                                </li>
+                            </ul>
                         </div>
                     </div>
                     <div className='card'>
-                        <h2>6 Financial Process <br />
-                            Management</h2>
+                        <h2>إدارة العمليات <br />
+                            المالية</h2>
                         <div className='cardContent'>
-                            <p>
-                                Delivering flexible payment options tailored to pharmacy needs, ensuring smooth financial operations.
-                                Simplifying claims review, submission, and collection processes in collaboration with insurance companies.
-
-                            </p>
+                            <ul>
+                                <li>
+                                    تقديم حلول دفع مرنة تناسب احتياجات الصيدليات لضمان السيولة المالية.
+                                </li>
+                                <li>
+                                    تسهيل عمليات المراجعة، والتسليم، والتحصيل بالتعاون مع شركات التأمين.
+                                </li>
+                            </ul>
                         </div>
                     </div>
                     <div className='card lastCard'>
-                        <h2>7 Quality Assurance & <br />
-                            Reliability</h2>
+                        <h2> ضمان الجودة<br />
+                            والموثوقية</h2>
                         <div className='cardContent'>
                             <p>
-                                Providing accurate and transparent services to build trust with pharmacies and customers.
+                                تقديم خدمات دقيقة وشفافة تعزز ثقة الصيدليات والعملاء في Orange Pharmacies.
                             </p>
                         </div>
                     </div>
                 </div>
 
                 <button className="btn">
-                    Join Us Now
+                    إشترك الان
                 </button>
             </div>
         </div>
