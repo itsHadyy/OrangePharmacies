@@ -48,6 +48,15 @@ const Footer = () => {
                         </div>
                     </div>
 
+                    <div className="lang-mobile">
+                        <Link to="/">
+                            <button className="btn">English</button>
+                        </Link>
+                        <Link to="/ar">
+                            <button className="btn">العربية</button>
+                        </Link>
+                    </div>
+
                     {/* Contact Section */}
                     <div className="contact-section">
                         <h3>Get in touch</h3>
@@ -92,6 +101,7 @@ const Footer = () => {
                     <Link to="https://futapp.com">
                         <img src={img04} alt="Fut APP" />
                     </Link>
+                    | &copy; All Rights Reserved
                 </p>
             </div>
         </div>

@@ -393,7 +393,7 @@ a {
   gap: 40px;
 }
 
-.futApp{
+.futApp {
   width: 100%;
   background-color: var(--blue);
   color: var(--lightGray);
@@ -401,11 +401,11 @@ a {
   padding: 10px 50px;
 }
 
-.futApp p{
+.futApp p {
   margin: 0;
 }
 
-.futApp img{
+.futApp img {
   height: 16px;
   margin: 0 10px;
   transform: translateY(3px);
@@ -480,6 +480,14 @@ a {
   left: 50%;
   top: 27%;
   transform: translate(-50%, -50%);
+}
+
+.quote01 {
+  display: block;
+}
+
+.quote02 {
+  display: none;
 }
 
 .about01 {
@@ -807,6 +815,16 @@ form .arrow {
   justify-content: center;
 }
 
+.lang-mobile .btn {
+  font-size: 18px;
+  padding: 10px 30px;
+  border: 2px solid var(--blue);
+}
+
+.lang-mobile {
+  display: none;
+}
+
 .ar .cardContent {
   min-height: 265px;
 }
@@ -824,7 +842,10 @@ form .arrow {
     font-size: 28px;
   }
 
-  .slide {
+  .slide,
+  .sub .slide,
+  .banner img,
+  .banner {
     height: 150px;
   }
 
@@ -852,6 +873,7 @@ form .arrow {
 
   .cardsContainer {
     display: block;
+    margin-bottom: 0;
   }
 
   .card {
@@ -910,9 +932,132 @@ form .arrow {
     font-size: 14px;
   }
 
-  .imgSliderContainer, .imgSliderContainer img{
+  .imgSliderContainer,
+  .imgSliderContainer img {
     width: 150px;
     height: 50px;
   }
 
+  .futApp {
+    padding: 10px 24px;
+    box-sizing: border-box;
+  }
+
+  .footer {
+    padding: 20px;
+  }
+
+  .footer-content {
+    display: block;
+  }
+
+  .sidebar {
+    width: 250px;
+  }
+
+  .download-section {
+    float: right;
+    width: 50%;
+  }
+
+  .social-media {
+    width: 50%;
+  }
+
+  .footer .appStoreContainer {
+    margin: 0px auto !important;
+    padding: 0;
+  }
+
+  .lang {
+    display: none;
+  }
+
+  .lang-mobile {
+    display: flex;
+    clear: both;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .footer .logo {
+    width: 220px;
+    height: auto;
+  }
+
+  .ceo {
+    padding: 20px;
+    margin: 0 20px;
+  }
+
+  .ceo h4 {
+    font-size: 20px;
+  }
+
+  .ceo p {
+    font-size: 14px;
+    width: 90%;
+  }
+
+  .quote01 {
+    display: none;
+  }
+
+  .quote02 {
+    display: block;
+  }
+
+  .ceo svg {
+    position: absolute;
+    left: 50%;
+    top: 31%;
+    transform: translate(-50%, -50%);
+  }
+
+  .about01 {
+    margin: 40px 20px;
+  }
+
+  .about01 p {
+    font-size: 16px;
+  }
+
+  .about02 {
+    grid-template-columns: 1fr;
+    margin: 20px;
+    gap: 0px;
+  }
+
+  .about02 h4 {
+    font-size: 14px;
+  }
+
+  .incuranceContainer {
+    margin: 20px;
+  }
+
+  .servicesContainer {
+    display: block;
+  }
+
+  .servicesContainer h2 {
+    font-size: 20px;
+  }
+
+  .servicesContainer p {
+    font-size: 16px;
+  }
+
+  .servicesContainer .cardContent {
+    min-height: auto;
+  }
+
+  .lastCard{
+    width: auto;
+  }
+
+  .btn{
+    font-size: 16px;
+    padding: 20px 40px;
+  }
 }
