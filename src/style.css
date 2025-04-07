@@ -297,6 +297,10 @@ a {
   min-height: 700px;
 }
 
+.home03-02 {
+  display: none;
+}
+
 .appStoreContainer {
   width: 280px;
   margin: auto;
@@ -387,6 +391,24 @@ a {
   flex-wrap: wrap;
   margin: auto;
   gap: 40px;
+}
+
+.futApp{
+  width: 100%;
+  background-color: var(--blue);
+  color: var(--lightGray);
+  font-size: 16px;
+  padding: 10px 50px;
+}
+
+.futApp p{
+  margin: 0;
+}
+
+.futApp img{
+  height: 16px;
+  margin: 0 10px;
+  transform: translateY(3px);
 }
 
 .download-section h3,
@@ -664,11 +686,11 @@ a {
   left: 70px;
 }
 
-.ar .arrow{
+.ar .arrow {
   right: 70px;
 }
 
-.ar-city .arrow{
+.ar-city .arrow {
   right: 120px;
 }
 
@@ -765,30 +787,132 @@ form .arrow {
   transform: rotate(180deg) translateY(-4px);
 }
 
-.ar-center{
+.ar-center {
   text-align: center !important;
 }
 
-.ar-center .cardContent{
+.ar-center .cardContent {
   min-height: 170px;
 }
 
-.lang .btn{
+.lang .btn {
   font-size: 18px;
   padding: 10px 30px;
   border: 2px solid var(--blue);
 }
 
-.lang{
+.lang {
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
-.ar .cardContent{
+.ar .cardContent {
   min-height: 265px;
 }
 
-.ar .cardContent p{
+.ar .cardContent p {
   text-align: center !important;
+}
+
+@media (max-width: 768px) {
+  .logo {
+    height: 40px;
+  }
+
+  .burger-icon {
+    font-size: 28px;
+  }
+
+  .slide {
+    height: 150px;
+  }
+
+  .controls {
+    scale: 0.8;
+    margin-top: 10px;
+  }
+
+  .home01 {
+    display: flex;
+    flex-direction: column-reverse;
+    padding: 20px;
+    gap: 0;
+    text-align: justify;
+    line-height: 1.4em;
+  }
+
+  .home01 img {
+    width: 100%;
+  }
+
+  .home02 {
+    padding: 20px;
+  }
+
+  .cardsContainer {
+    display: block;
+  }
+
+  .card {
+    margin: 20px 0;
+    padding-top: 10px;
+  }
+
+  .cardContent {
+    font-size: 16px;
+    min-height: auto;
+    padding: 10px 20px;
+  }
+
+  .home03 {
+    display: none;
+  }
+
+  .home03-02 {
+    display: block;
+  }
+
+  .hand-phone {
+    display: flex;
+  }
+
+  .appStoreContainer {
+    width: 120px;
+    margin: 0;
+    text-align: center;
+    display: block;
+    padding-top: 100px;
+  }
+
+  .appStoreContainer img {
+    height: 40px;
+    display: block;
+    margin: 10px auto;
+    width: 115px !important;
+  }
+
+  .hand-phone img {
+    position: relative;
+    width: 240px;
+  }
+
+  .download-content {
+    padding: 20px;
+    text-align: center;
+  }
+
+  .download-content h1 {
+    font-size: 20px;
+  }
+
+  .download-content p {
+    font-size: 14px;
+  }
+
+  .imgSliderContainer, .imgSliderContainer img{
+    width: 150px;
+    height: 50px;
+  }
+
 }

@@ -92,6 +92,26 @@ function Home() {
                     </div>
                 </div>
             </div>
+            
+            <div className='home03-02'>
+                <div className='hand-phone'> 
+                    <img src={img04} alt="Orange Pharmacies" />
+                    <div className='appStoreContainer'>
+                        <a href='https://www.apple.com/app-store/' target=''>
+                            <img src={img02} alt="Orange Pharmacies" />
+                        </a>
+                        <a href='https://www.apple.com/app-store/' target=''>
+                            <img src={img03} alt="Orange Pharmacies" />
+                        </a>
+                    </div>
+                </div>
+                <div className='download-content'>
+                    <h1>Download Our App Now!</h1>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur. Turpis feugiat pellentesque elementum a lorem pretium. Vitae eu rhoncus vivamus ultrices placerat est dui. Ut aliquet amet tempus facilisis ullamcorper dolor sem. Blandit dolor sociis quam turpis. Eget sit at nibh sagittis amet vulputate.
+                    </p>
+                </div>
+            </div>
 
             <div className='home04'>
                 <h1>Insurance Companies</h1>
