@@ -40,6 +40,7 @@ const Slider = ({ direction = "left" }) => {
 
     const startAnimation = () => {
       const slideshow = slideshowRef.current;
+      if (!slideshow) return;
       const scrollAmount = direction === "left" ? 1 : -1;
 
       slideshow.scrollLeft += scrollAmount;
