@@ -15,7 +15,6 @@ function Locations() {
     const [isLoading, setIsLoading] = useState(true);
 
     useEffect(() => {
-        // Load data from JSON files
         setPharmacies({
             type01: pharmaciesType01,
             type02: pharmaciesType02
@@ -139,7 +138,7 @@ function Locations() {
                                     height="700"
                                     frameBorder="0"
                                     style={{ border: 0 }}
-                                    src={`https://maps.google.com/maps?q=${encodeURIComponent(selectedPharmacy.address)}&output=embed`}
+                                    src={selectedPharmacy.googleMapsUrl}
                                     allowFullScreen
                                 ></iframe>
                             </div>
