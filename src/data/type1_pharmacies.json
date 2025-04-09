@@ -1,0 +1,852 @@
+[
+  {
+    "id": 1,
+    "name": "ابرام هانى فيصل",
+    "city": "الجيزة",
+    "district": "فيصل\r\n",
+    "address": "7أ ش محمود حسن إسماعيل - من المساكن - فيصل",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 2,
+    "name": "صيدلية الشربينى",
+    "city": "القليوبية",
+    "district": "بنها\r\n",
+    "address": "ش كلية الطب أمام باب مستشفى الرمد - خلف مركز شباب مدينة بنها - بنها - القليوبية",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 3,
+    "name": "ص . عبد المنطلب حسان - الاقصر",
+    "city": "الاقصر ",
+    "district": "الأقصر",
+    "address": "شارع طراد النيل - الكرنك - شارع الهيلتون - أمام مسجد عمرو بن العاص - الأقصر",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 4,
+    "name": "صيدلية ابراهيم الخولى",
+    "city": "الغربية",
+    "district": "زفتى \r\n",
+    "address": "امتداد شارع الجيش القبلي - أمام كوبري المصرف ومسجد أبو داوود - زفتى - الغربية",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 5,
+    "name": "صيدليه رومانى عاطف",
+    "city": "اسيوط",
+    "district": "أسيوط",
+    "address": "طريق العصارة - خلف مصنع الورق - مركز الفتح - عزبة التحرير - شارع رقم 1 - أسيوط",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 6,
+    "name": "صيدلية ناردين ماهر",
+    "city": "البحيرة",
+    "district": "أبو المطامير\r\n",
+    "address": "ش عبد القادر طه - خلف مركز الشرطة - مركز أبو المطامير - البحيرة",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 7,
+    "name": "صيدلية د / بيتر فوزى -بنى مزار",
+    "city": "المنيا",
+    "district": "بني مزار\r\n",
+    "address": "شارع رقم 4 - متفرع من طريق البحر - تقسيم القصبي - خلف مستشفى حنا فهيم شرق المحطة - بني مزار - المنيا ",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 8,
+    "name": "صيدلية احمد السياف",
+    "city": "القليوبية",
+    "district": "سنديون\r\nقليوب\r\n",
+    "address": "1ش الوحدة المحلية - داير الناحية - بجوار مسجد الدوني - سنديون - قليوب - القليوبية",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 9,
+    "name": "صيدلية جون عدلى",
+    "city": "القاهرة",
+    "district": "مصر الجديدة\r\n",
+    "address": "108ش الحجاز- مصر الجديدة",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 10,
+    "name": "ص. محب الجديدة - المرج الجديدة",
+    "city": "القاهرة",
+    "district": "المرج الجديدة\r\n",
+    "address": "20مدينة التوحيد - ش الجمهورية - من شارع محمد نجيب - المرج الجديدة",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 11,
+    "name": "صيدلية طارق محمد فتوح سلامة - المنصورة",
+    "city": "الدقهلية",
+    "district": "المنصورة\r\n",
+    "address": "70ش قناة السويس - برج الصديق - توريل - المنصورة - الدقهلية",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 12,
+    "name": "صيدلية قنديل (د/ أحمد قنديل)",
+    "city": "السويس",
+    "district": "السويس",
+    "address": "قطعة 1046 -  ش عمر بن الخطاب (خالد بن الوليد) - السلام 1 - السويس ",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 13,
+    "name": "ص . ايمن عبد العظيم- المنيا",
+    "city": "المنيا",
+    "district": "المنيا",
+    "address": "19ش الترعة الدماريسيه - حي الأخصاص - خلف مدينة الطالبات - المنيا ",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 14,
+    "name": "ص. نهال الليثى - مصطفى محمد ",
+    "city": "القاهرة",
+    "district": "المقطم \r\n",
+    "address": "القطعة 5617 - الحي الرابع - الهضبة الوسطى - المقطم",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 15,
+    "name": "صيدليه خالد فوزى",
+    "city": "المنوفية",
+    "district": "قويسنا\r\n",
+    "address": "شارع العهد الجديد - قويسنا - المنوفية",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 16,
+    "name": "ص . رحاب درويش - حدائق الاهرام",
+    "city": "الجيزة",
+    "district": "حدائق أكتوبر\r\n",
+    "address": "محل 7- السوق التجاري - قطاع 266 - الإسكان الاجتماعي - حدئق أكتوبر",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 17,
+    "name": "صيدلية بروتكت ( ايمن )",
+    "city": "القاهرة",
+    "district": "مصر الجديدة\r\n",
+    "address": "4شارع محمد بك رمزي - مصر الجديدة - القاهرة ",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 18,
+    "name": "صيدلية هديل",
+    "city": "القاهرة",
+    "district": "الظاهر\r\n",
+    "address": "1ش ابن الغنام المتفرع من ش ذهني - بالظاهر",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 19,
+    "name": "صيدلية رخا",
+    "city": "الدقهلية",
+    "district": "ديكرنس\r\n",
+    "address": "ش النقراشي - أمام بنك مصر - موقف القاهرة - دكرنس - الدقهلية",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 20,
+    "name": "صيدلية ابو حمدة",
+    "city": "القاهرة",
+    "district": "المعادي\r\n",
+    "address": "28ش مصر حلوان الزراعي- برج المهندسين العسكريين - بجوار وزارة البيئة- أمام الأنوار- المعادي ",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 21,
+    "name": "صيدلية جون فتحى",
+    "city": "الجيزة",
+    "district": "6أكتوبر \r\n",
+    "address": "الحي الثامن - مول فايف ستارز - 6أكتوبر - الجيزة",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 22,
+    "name": "صيدلية غلاب",
+    "city": "كفر الشيخ",
+    "district": "كفر الشيخ",
+    "address": "الأوقاف 4 - ش تقسيم النيابة الإدارية - برج غلاب - كفر الشيخ - كفر الشيخ",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 23,
+    "name": "صيدلية الدنف",
+    "city": "الدقهلية",
+    "district": "شربين\r\n",
+    "address": " شارع القومية العربية - أمام التأمينات بجوار مسجد عصر - شربين - الدقهلية",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 24,
+    "name": " صيدلية ريفولى د لبيب فايز لبيب",
+    "city": "المنيا",
+    "district": "المنيا",
+    "address": "100ش محمود عبد الرازق  - المنيا",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 25,
+    "name": "صيدليه كيرلس صفوت",
+    "city": "الإسكندرية",
+    "district": "سيدي بشر\r\n",
+    "address": "608ش أبو موسى الأشعري - من شارع سيف - سيدي بشر قبلي - الأسكندرية",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 26,
+    "name": "ص. ام النور - وائل جمال - اسيوط",
+    "city": "اسيوط",
+    "district": "أسيوط",
+    "address": "شارع الوحدة القومية (مستجد) - المتفرع من شارع المحافظة - مدينة أسيوط - أسيوط",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 27,
+    "name": "ص . محمود لطفى عميش- تلا",
+    "city": "المنوفية",
+    "district": "تلا\r\n",
+    "address": "طوخ دلكا - أمام المعهد الديني للفتيات - تلا - المنوفية ",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 28,
+    "name": "صيدلية عصام المقطم",
+    "city": "القاهرة",
+    "district": "المقطم \r\n",
+    "address": "قطعة 7122 تقسيم المنطقة س - شارع 81 - الهضبة العليا - المقطم",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 29,
+    "name": "صيدلية فيكتور",
+    "city": "القاهرة",
+    "district": "النزهة الجديدة\r\n",
+    "address": "1ش مصر للطيران - مربع 1309 قطعة (1) - أمام السندباد - النزهة الجديدة - القاهرة",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 30,
+    "name": "ص .لايت  تامر الحسينى - ناهيا ",
+    "city": "القاهرة",
+    "district": "مدينة نصر \r\n",
+    "address": "49ش مصطفى النحاس - قطعة 18 - بلوك 1 - المنطقة الثامنة - مدينة نصر",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 31,
+    "name": "صيدلية وائل حافظ الكبرى",
+    "city": "القاهرة",
+    "district": "مدينة السلام\r\n",
+    "address": "مساكن القاهرة ج - بلوك 56 م1 - أمام المطحن بالسلام - مدينة السلام",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 32,
+    "name": "صيدلية ريموندا طلعت",
+    "city": "القاهرة",
+    "district": "النزهة 2\r\n",
+    "address": "قطعة 98ش المعهد الأزهري -امتداد ش الخمسين -تقسيم الخالدي -محل (1) يمين مدخل العقار- النزهة 2",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 33,
+    "name": "صيدليه محمود عبد الحميد - بلبيس",
+    "city": "الشرقية",
+    "district": "بلبيس\r\n",
+    "address": "ش المظلوم بجوار ماكينة الاهواني - بلبيس - الشرقية",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 34,
+    "name": "صيدلية سامح صابر ( اسيوط) - \r\nمجدى عبده مهنى عفدرى",
+    "city": "اسيوط",
+    "district": "أسيوط",
+    "address": "المعلمين - المدخل الرئيسي - بجوار سيراميك التلاوي - أسيوط",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 35,
+    "name": "صيدلية مروة صادق",
+    "city": "الشرقية",
+    "district": "العاشر من رمضان\r\n",
+    "address": "قطعة 16 - مجاورة 20 - 2 مول سينكو التجاري - جوار التأمين الصحي - خلف مول الدوحة - العاشر من رمضان",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 36,
+    "name": "صيدلية الهلال اسامة الشبراوى",
+    "city": "الدقهلية",
+    "district": "أجا\r\n",
+    "address": "ش الجيش - أمام موقف المنصورة - مركز أجا - الدقهلية.",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 37,
+    "name": "ص . اسماء سعيد شهدة - العزيزية ",
+    "city": "الشرقية",
+    "district": "منيا القمح\r\n",
+    "address": "عقار (أشرف الحسيني قنديل ) بشارع الترعة النجمية - العزيزية - منيا القمح - الشرقية",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 38,
+    "name": "صيدلية محمد صبحى السلموني - العريش",
+    "city": "شمال سيناء",
+    "district": "العريش\r\n",
+    "address": "شارع عمر بن الخطاب - بجوار شارع التيجاني الجديد - العريش أول - شمال سيناء",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 39,
+    "name": "ص . ديفيد مدحت",
+    "city": "سوهاج",
+    "district": "سوهاج أول\r\n",
+    "address": "18نهاية شارع المخبز الآلي - أمام إدارة المرور - شارع ترعة نجع حمادي الشرقية - سوهاج أول - سوهاج",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 40,
+    "name": "ص. طارق النشوي",
+    "city": "الشرقية",
+    "district": "منيا القمح\r\n",
+    "address": "العزيزية - منيا القمح - الشرقية",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 41,
+    "name": "صيدلية الامير - المنيا",
+    "city": "المنيا",
+    "district": "المنيا",
+    "address": " 49ش مصطفى فهمي- بجوار نقابةالزراعيين - المنيا",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 42,
+    "name": "ص. محمد طه - برج العرب ",
+    "city": "الإسكندرية",
+    "district": "برج العرب \r\n",
+    "address": "محل رقم (35) سوق الزهور - المجاورة التاسعة - الحي الأول - برج العرب - الأسكندرية",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 43,
+    "name": "ص . احمد محمد سليم - كفر الدوار",
+    "city": "البحيرة",
+    "district": "كفر الدوار\r\n",
+    "address": "شارع أحمد عرابي - الميزانة - مركز كفر الدوار - البحيرة",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 44,
+    "name": "ص. بروتكت ايمان الالفي",
+    "city": "القاهرة",
+    "district": "النزهة \r\nمصر الجديدة",
+    "address": "212ش النزهة - مصر الجديدة ",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 45,
+    "name": "ص . سلفيا سامى فكرى - سوهاج",
+    "city": "سوهاج",
+    "district": "قلفاو\r\n",
+    "address": "شارع برج الحمام - متفرع من شارع سيتي - قلفاو - سوهاج",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 46,
+    "name": "صيدلية ادريس ",
+    "city": "بورسعيد",
+    "district": "حي المناخ\r\n",
+    "address": "24ش سعد زغلول - برج مكة - أمام مسجد صالح - حي المناخ - بورسعيد",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 47,
+    "name": "ص . بيير نادي جرجس- المنيا",
+    "city": "المنيا",
+    "district": "المنيا",
+    "address": "109ش رمسيس - أرض سلطان - مركز المنيا - المنيا",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 48,
+    "name": "ص. تامر عصام - مدينة نصر",
+    "city": "القاهرة",
+    "district": "مدينة نصر \r\n",
+    "address": "مساكن شركة الشمس - عمارة 10 - محل رقم 9 - الحي الثامن - مدينة نصر",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 49,
+    "name": "صيدلية نجمة التجمع",
+    "city": "القاهرة",
+    "district": "التجمع الخامس\r\n",
+    "address": "مول حي عربية - خلف المصراوية - التجمع الخامس- (أمام مدرسة إيليت).",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 50,
+    "name": "ص . محمد علي سعد الجديدة -شبرا الخيمة",
+    "city": "القليوبية",
+    "district": "شبرا الخيمة \r\n",
+    "address": "14ش الشعب - من ش أحمد عرابي - عزبة عثمان - شبرا الخيمة",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 51,
+    "name": "صيدلية ايوب د -بيتر جوزيف",
+    "city": "القاهرة",
+    "district": "مدينة نصر \r\n",
+    "address": "30ش محمد فريد أبو حديد - الحي السابع - مدينة نصر",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 52,
+    "name": "ص. شريف شعبان - الحياه",
+    "city": "القاهرة",
+    "district": "زهراء المعادي\r\n",
+    "address": "19ش نادي وادي دجلة - زهراء المعادي",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 53,
+    "name": "ص . احمد سمير",
+    "city": "الجيزة",
+    "district": "بولاق الدكرور\r\n",
+    "address": "4ش إبراهيم الدسوقي - من شارع ترعة زنين - بولاق الدكرور",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 54,
+    "name": "ص . احمد عبيد - مدينة بدر",
+    "city": "القاهرة",
+    "district": "مدينة بدر\r\n",
+    "address": "محل رقم (16) بالسوق التجاري - المجاورة الخامسة - الحي الأول - مدينة بدر - القاهرة",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 55,
+    "name": "صيدليه محسن",
+    "city": "القاهرة",
+    "district": "المقطم \r\n",
+    "address": "قطعة 1092 منطقة هـــــــ - شارع 17 - الهضبة العليا - المقطم",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 56,
+    "name": "صيدليه محمد عبد الناصر",
+    "city": "القاهرة",
+    "district": "مدينة نصر \r\n",
+    "address": "162ش امتداد رمسيس 2 - محل 1 - مدينة نصر ",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 57,
+    "name": "ص. يعقوب عبد الملك - حدائق حلوان",
+    "city": "القاهرة",
+    "district": "حدائق حلوان\r\n",
+    "address": "13أ  شارع علي السايس - حدائق حلوان",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 58,
+    "name": "ص نجمة الصبح ( د جون)",
+    "city": "القاهرة",
+    "district": "حلوان \r\n",
+    "address": "18ش عبد الله مع ش عبد الرحمن - حلوان",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 59,
+    "name": "صيدلية مرتضى ماهر",
+    "city": "القاهرة",
+    "district": "النزهة الجديدة\r\n",
+    "address": "1ش علي الخفيف - متفرع من محمد كامل حسين خلف بنك  CIB - النزهة الجديدة",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 60,
+    "name": "ص . ثروت زكريا - الشرابية",
+    "city": "القاهرة",
+    "district": "الشرابية\r\n",
+    "address": "8ش الاتحاد - أرض الشركة - الشرابية",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 61,
+    "name": "صيدليه طلعت ابو ريه ( السادات )",
+    "city": "المنوفية",
+    "district": "السادات\r\n",
+    "address": "محل رقم 11 - السوق التجاري - بالمنطقة السكنية - السادسة عشر - المرحلة الأولى -  السادات - المنوفية",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 62,
+    "name": "ص . محمد محروس - الجولف مدينة نصر",
+    "city": "القاهرة",
+    "district": "مدينة نصر \r\n",
+    "address": "17عمارات الشركة السعودية - من شارع النزهة - أرض الجولف - مدينة نصر",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 63,
+    "name": "رائد المنيا",
+    "city": "المنيا",
+    "district": "المنيا",
+    "address": " 25شارع مصطفى فهمي باشا - خلف مستشفى المبرة - المنيا ",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 64,
+    "name": "ص . الاء عباس توفيق - طوخ",
+    "city": "القليوبية",
+    "district": "طوخ\r\n",
+    "address": "ش الشام متفرع من الجلاء (الطريق السريع) - طوخ - القليوبية",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 65,
+    "name": "صيدلية نيرمين - مدينه نصر ( الشمس )",
+    "city": "القاهرة",
+    "district": "مدينة نصر \r\n",
+    "address": "19ش مكرم عبيد - المنطقة السادسة - بجوار السلاب - مدينة نصر",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 66,
+    "name": "ص. عبد الرحمن ابراهيم - الاميرية",
+    "city": "القاهرة",
+    "district": "الأميرية \r\n",
+    "address": "49ش الخليج المصري - أرض الجمعية - الأميرية",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 67,
+    "name": "ص. الشافعى الجديدة - شبين الكوم",
+    "city": "المنوفية",
+    "district": "شبين الكوم\r\n",
+    "address": "شارع راشد عبدالله - خلف تعاونيات الإسكان - شبين الكوم - المنوفيه.",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 68,
+    "name": "صيدليه محمد على",
+    "city": "مرسى مطروح",
+    "district": "مرسى مطروح",
+    "address": "الكيلو 2 - خلف موقف ومحطة اتوبيس السوبر جيت - مطروح",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 69,
+    "name": "صيدلية مينا ناجى",
+    "city": "المنيا",
+    "district": "بندر المنيا \r\n",
+    "address": "16تقسيم ثابت زكي - بندر المنيا - المنيا",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 70,
+    "name": "ص. خديجة الحديثة ",
+    "city": "القاهرة",
+    "district": "الظاهر\r\n",
+    "address": "615ش بورسعيد - قسم الظاهر - الظاهر",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 71,
+    "name": "صيدلية حسام الدين ( الحورانى )",
+    "city": "دمياط",
+    "district": "دمياط",
+    "address": "الحوراني - فراسكور - بجوار المسجد الكبير - دمياط",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 72,
+    "name": "ص. مريانه جاب الله - الاسكندرية",
+    "city": "الإسكندرية",
+    "district": "كليوباترا\r\n",
+    "address": "311طريق الحرية - كليوباترا - الأسكندرية",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 73,
+    "name": "ص . البشاره",
+    "city": "الإسكندرية",
+    "district": "المنتزه أول\r\n",
+    "address": "شارع إبراهيم بشير - متفرع من ملك حفني - درباله - فيكتوريا - قسم المنتزة  أول - الإسكندرية",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 74,
+    "name": "ص. مصطفى كمال بكر - اشمون ",
+    "city": "المنوفية",
+    "district": "أشمون \r\n",
+    "address": "طهواي - مركز أشمون - المنوفية",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 75,
+    "name": "صيدلية ج شبرا (د/ أندرو)",
+    "city": "القاهرة",
+    "district": "شبرا مصر\r\n",
+    "address": "1ش محمد الشيخ - متفرع من شارع معمل الألبان - الخلفاوي - الساحل -  شبرا",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 76,
+    "name": "ص. مصطفى سعيد - الصوالحة",
+    "city": "القليوبية",
+    "district": "شبرا الخيمة \r\n",
+    "address": "61ش جمال عبد الناصر - خلف مسجد الصوالحة - شارع الشعراوي الجديد - شبرا الخيمة",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 77,
+    "name": "ص. بركات صبري- الفخراني المنيب",
+    "city": "الجيزة",
+    "district": "المنيب\r\n",
+    "address": " 3شارع الفخراني - المنيب - الجيزة",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 78,
+    "name": "ص . زكريا عبد الستار- السادات",
+    "city": "المنوفية",
+    "district": "السادات\r\n",
+    "address": "المجاورة الثالثة - أمام مسجد العزيز - المنطقة الثانية - محل رقم 5 - مركز مدينة السادات - المنوفية",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 79,
+    "name": "ص . احمد وائل - الاسماعيلية",
+    "city": "الإسماعيلية",
+    "district": "الشيخ زايد \r\n",
+    "address": "الدائري - أرض الجمعيات 110ج - شارع المدرسة المعمارية - الشيخ زايد - الإسماعيلية",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 80,
+    "name": "صيدلية مايكل ادوار ( صاروفيم )",
+    "city": "المنيا",
+    "district": "صاروفيم\r\n",
+    "address": "قطعة 103- تقسيم شلبي - صاروفيم - المنيا",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 81,
+    "name": "محمد الاتربى",
+    "city": "دمياط",
+    "district": "دمياط",
+    "address": "4شارع الجمرك - خلف السنترال الجديد - دمياط",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 82,
+    "name": "صيدلية محمد الاحمر",
+    "city": "قنا",
+    "district": "قنا",
+    "address": "طريق مصر أسوان السريع - بجوار البنك الزراعي الإسلامي - قنا",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 83,
+    "name": "صيدلية المهندسين",
+    "city": "الجيزة",
+    "district": "المهندسين\r\n",
+    "address": "18ب شارع الحجاز - متفرع من شارع سوريا - المهندسين",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 84,
+    "name": "ص . طلعت السيد - الخصوص",
+    "city": "القليوبية",
+    "district": "الخصوص\r\n",
+    "address": "ش محمد عبد المعطي - من شارع جمال عبد الناصر - الخصوص",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  },
+  {
+    "id": 85,
+    "name": "ص. السنترال - ايزابيل",
+    "city": "القاهرة",
+    "district": "المطرية \r\n",
+    "address": "77ش التروللي - المطرية",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A",
+    "phoneNumber": "N/A"
+  }
+]

@@ -1,0 +1,378 @@
+[
+  {
+    "id": 1,
+    "city": "القاهرة",
+    "district": "ارض الجولف",
+    "name": "العلا",
+    "address": "72شارع اسماء فهمي ارض الجولف -مدينة نصر اول",
+    "phoneNumber": 1024388388,
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A"
+  },
+  {
+    "id": 2,
+    "city": "القاهرة",
+    "district": "النزهه",
+    "name": "علاء عصمت",
+    "address": "227شارع جسر السويس-النزهه",
+    "phoneNumber": "01028877777-01555504040",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A"
+  },
+  {
+    "id": 3,
+    "city": "القاهرة",
+    "district": "النزهه",
+    "name": "حنان جيمي",
+    "address": "19أشارع محمد شفيق -النزهه-القاهرة",
+    "phoneNumber": "20672088-01223331999-01000552513",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A"
+  },
+  {
+    "id": 4,
+    "city": "القاهرة",
+    "district": "السلام",
+    "name": "محمد جمال قاسم",
+    "address": "مدينة النهضة العدد 1200بلوك9مدخل 1 ",
+    "phoneNumber": 1002216200,
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A"
+  },
+  {
+    "id": 5,
+    "city": "القاهرة",
+    "district": "السلام",
+    "name": "ايهاب سليمان",
+    "address": "ش جمال عبد الناصر ناصية ش صبري ابو طالب -السلام",
+    "phoneNumber": 1002216200,
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A"
+  },
+  {
+    "id": 6,
+    "city": "القاهرة",
+    "district": "السلام",
+    "name": "وائل حافظ",
+    "address": "مساكن القاهرة ج ب 56 م1 امام المطحن بالسلام",
+    "phoneNumber": 1002216200,
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A"
+  },
+  {
+    "id": 7,
+    "city": "القاهرة",
+    "district": "السلام",
+    "name": "مني محفوظ",
+    "address": "ميدان اسكندرية-بلوك88مدخل1محل 1-السلام",
+    "phoneNumber": 1002216200,
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A"
+  },
+  {
+    "id": 8,
+    "city": "القليوبية",
+    "district": "العبور",
+    "name": "ناردين رفيق",
+    "address": "منطقة ال800م بلوك 11101 قطعة 1 الحي الاول -العبور",
+    "phoneNumber": 1288816200,
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A"
+  },
+  {
+    "id": 9,
+    "city": "القاهرة",
+    "district": "النزهه",
+    "name": "انجي موريس",
+    "address": "82ش جوزيف تيتو -النزهه الجديدة -القاهرة",
+    "phoneNumber": 1288816200,
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A"
+  },
+  {
+    "id": 10,
+    "city": "القليوبية",
+    "district": "العبور",
+    "name": "مينا حمدي",
+    "address": "شارع فاطمة الزهراء -مجمع خدمات وطنية -العبور",
+    "phoneNumber": 1288816200,
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A"
+  },
+  {
+    "id": 11,
+    "city": "القاهرة",
+    "district": "زهراء المعادي",
+    "name": "شيماء محمد عويس",
+    "address": "عمارة 10027-المجاورة العاشرة",
+    "phoneNumber": "0224475306-01278268885",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A"
+  },
+  {
+    "id": 12,
+    "city": "القاهرة",
+    "district": "مصر الجديدة",
+    "name": "محمود لبيب",
+    "address": "8ش نبيل محمود من ش يسري نبيه -حسن افلاطون-ارض الجولف",
+    "phoneNumber": 1007782820,
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A"
+  },
+  {
+    "id": 13,
+    "city": "القاهرة",
+    "district": "مدينة نصر",
+    "name": "صحتك",
+    "address": "46ش علي امين -امتداد مصطفي النحاس-مدينة نصر",
+    "phoneNumber": "01002259057-01152301080",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A"
+  },
+  {
+    "id": 14,
+    "city": "القاهرة",
+    "district": "مدينة نصر",
+    "name": "الشابوري",
+    "address": "85ش الطيران -مدينة نصر -القاهرة",
+    "phoneNumber": 22623356,
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A"
+  },
+  {
+    "id": 15,
+    "city": "القاهرة",
+    "district": "عين شمس",
+    "name": "نرمين نعيم",
+    "address": "22 ش الزهراء -عين شمس -القاهرة",
+    "phoneNumber": 24948844,
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A"
+  },
+  {
+    "id": 16,
+    "city": "القاهرة",
+    "district": "مصر الجديدة",
+    "name": "اكسبريس",
+    "address": "66ش هارون الرشيد -مصر الجديدة",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A"
+  },
+  {
+    "id": 17,
+    "city": "القاهرة",
+    "district": "مدينة نصر",
+    "name": "داليا بركات",
+    "address": "59ش جمال الدين قاسم-المنطقة الثامنة-مدينة نصر",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A"
+  },
+  {
+    "id": 18,
+    "city": "القاهرة",
+    "district": "مصر الجديدة",
+    "name": "نورماندي",
+    "address": "21 شارع الاهرام -مصر الجديدة",
+    "phoneNumber": 1203007171,
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A"
+  },
+  {
+    "id": 19,
+    "city": "القاهرة",
+    "district": "مصر الجديدة",
+    "name": "نبيل صادق",
+    "address": "17أشارع الدفاع الجوي-ارض الجولف -مصر الجديدة",
+    "phoneNumber": "22903595-01024060065",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A"
+  },
+  {
+    "id": 20,
+    "city": "القاهرة",
+    "district": "مدينة نصر",
+    "name": "خالد محي الدين",
+    "address": "11ش محسن رشدي -منطقة ثامنة -مدينة نصر",
+    "phoneNumber": 1553953291,
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A"
+  },
+  {
+    "id": 21,
+    "city": "القاهرة",
+    "district": "مدينة نصر",
+    "name": "شرين",
+    "address": "32عطيه الصوالحي قطعة15بلوك55المنطقة الثامنة",
+    "phoneNumber": "01145968444-01010597203",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A"
+  },
+  {
+    "id": 22,
+    "city": "القاهرة",
+    "district": "مصر الجديدة",
+    "name": "ايمن بروتكت",
+    "address": "4ش محمد رمزي -مصر الجديدة-القاهرة",
+    "phoneNumber": "01111828244-01288351221",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A"
+  },
+  {
+    "id": 23,
+    "city": "القاهرة",
+    "district": "مدينة نصر",
+    "name": "الزهيري",
+    "address": "48ش الشيخ محمد النادي -مدينة نصر",
+    "phoneNumber": "01113338955-01156690881",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A"
+  },
+  {
+    "id": 24,
+    "city": "القاهرة",
+    "district": "مدينة نصر",
+    "name": "محمد رضا",
+    "address": "1ش عباد الرحمن من شهداء التحرير-الحي العاشر-مدينة نصر",
+    "phoneNumber": "20468444+01011710350",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A"
+  },
+  {
+    "id": 25,
+    "city": "القاهرة",
+    "district": "النزهه الجديدة",
+    "name": "نغم سالم",
+    "address": "18ش احمد مصطفي -النزهه الجديدة",
+    "phoneNumber": "01025352727-01061106106",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A"
+  },
+  {
+    "id": 26,
+    "city": "القاهرة",
+    "district": "النزهه الجديده",
+    "name": "فيكتور",
+    "address": "1شارع مصر للطيران_مربع 1309 امام باب السندبات",
+    "phoneNumber": "01224315900-26208880",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A"
+  },
+  {
+    "id": 27,
+    "city": "القاهرة",
+    "district": "النزهه",
+    "name": "ايدار اسحق",
+    "address": "28ش الخليفة المنصور من نخلة المطيعي -تريومف-النزهه",
+    "phoneNumber": "01270299223-27765231",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A"
+  },
+  {
+    "id": 28,
+    "city": "القاهرة",
+    "district": "المعراج",
+    "name": "فاطمة",
+    "address": "محل رقم 1 عمارة 10044 المجاورة العاشرة -المعراج",
+    "phoneNumber": "01288883900-01122930904",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A"
+  },
+  {
+    "id": 29,
+    "city": "القاهرة",
+    "district": "مدينة نصر",
+    "name": "سمية جابر",
+    "address": "23شارع احمد فهيم متفرع من عبدالله العربي (امتداد الطيران) الحي السابع_مدينة نصر",
+    "phoneNumber": "01118021172-23846151",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A"
+  },
+  {
+    "id": 30,
+    "city": "القاهرة",
+    "district": "حلمية الزيتون",
+    "name": "احمد علي زايد",
+    "address": "64،66 ابراج ميامي-سليم الاول -حلمية الزيتون",
+    "phoneNumber": 1093293799,
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A"
+  },
+  {
+    "id": 31,
+    "city": "القاهرة",
+    "district": "مصر الجديدة",
+    "name": "سامح ملك عبد الملاك",
+    "address": "10شارع كمال الشافعي _ميدان الاسماعيلية _مصر الجديدة",
+    "phoneNumber": "01277716908-22902322",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A"
+  },
+  {
+    "id": 32,
+    "city": "القاهرة",
+    "district": "مدينة نصر",
+    "name": "سامح عز ",
+    "address": "5أش احمد الزمر-الحي السويسري-مدينة نصر",
+    "phoneNumber": "01024142233-01094404273",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A"
+  },
+  {
+    "id": 33,
+    "city": "القاهرة",
+    "district": "مدينة نصر",
+    "name": "اسلام عز الدين",
+    "address": "عمارة 70مشروع 2064 وحدة-مساكن التعاونيات-الحي الثامن",
+    "phoneNumber": "01557147146-01110158111",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A"
+  },
+  {
+    "id": 34,
+    "city": "القاهرة",
+    "district": "مدينة نصر",
+    "name": "الاء عوض",
+    "address": "40ش ابو داود الظاهر -م.نصر",
+    "phoneNumber": "01014173537-0223505558",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A"
+  },
+  {
+    "id": 35,
+    "city": "القاهرة",
+    "district": "مدينة نصر",
+    "name": "رنا صلاح",
+    "address": "عماره 4 بلوك 35ش افريقيا امتداد مصطفي النحاس -مدينة نصر",
+    "phoneNumber": 1020506052,
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A"
+  },
+  {
+    "id": 36,
+    "city": "القاهرة",
+    "district": "النزهه",
+    "name": "جون سامي",
+    "address": "4ش جمال عز الدين سلامة-النزهه",
+    "phoneNumber": 1210232323,
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A"
+  },
+  {
+    "id": 37,
+    "city": "القاهرة",
+    "district": "امتداد رمسيس",
+    "name": "فاطمة ابو العز",
+    "address": "1امتداد رمسيس-نادي السكة -القاهرة",
+    "phoneNumber": "01003032219-23890099",
+    "workingHours": "Open Until 9:00PM",
+    "googleMapsUrl": "N/A"
+  },
+  {
+    "id": 38,
+    "city": "القاهرة",
+    "district": "مصر الجديدة",
+    "name": "الشريف",
+    "address": "15أشارع السباق -المريلاند مول -مصر الجديدة",
+    "phoneNumber": "01100063900-26337633"
+  }
+]
