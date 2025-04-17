@@ -4,9 +4,10 @@ import ArrowBackIosIcon from "@mui/icons-material/ArrowBackIos";
 import PlaceIcon from "@mui/icons-material/Place";
 import { db } from "../../boot/firebase";
 import { collection, getDocs } from "firebase/firestore";
-import mapboxgl from "mapbox-gl";
-import "mapbox-gl/dist/mapbox-gl.css";
+import mapboxgl from 'mapbox-gl';
+import 'mapbox-gl/dist/mapbox-gl.css';
 
+console.log("Mapbox Access Token from env:", process.env.REACT_APP_MAPBOX_ACCESS_TOKEN);
 mapboxgl.accessToken = process.env.REACT_APP_MAPBOX_ACCESS_TOKEN;
 
 export default function BranchesMap() {
