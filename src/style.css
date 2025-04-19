@@ -968,6 +968,11 @@ iframe {
   color: white;
 }
 
+.pharmaciesList ul{
+  list-style: none;
+  padding: 0;
+}
+
 @media (max-width: 768px) {
   .logo {
     height: 40px;

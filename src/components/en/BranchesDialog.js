@@ -6,7 +6,6 @@ import mapboxgl from 'mapbox-gl';
 import 'mapbox-gl/dist/mapbox-gl.css';
 import PlaceIcon from "@mui/icons-material/Place";
 import ScheduleIcon from "@mui/icons-material/Schedule";
-import PhoneIcon from "@mui/icons-material/Phone";
 import LocationOnIcon from "@mui/icons-material/LocationOn";
 
 mapboxgl.accessToken = process.env.REACT_APP_MAPBOX_ACCESS_TOKEN;
@@ -78,8 +77,8 @@ export default function BranchesDialog({ setBranchesDialogOpen }) {
                         color: pharmacy.id === selectedPharmacy.id ? '#f97818' : '#f97818',
                         scale: 0.8
                     })
-                    .setLngLat([pharmacy.long, pharmacy.lat])
-                    .addTo(map.current);
+                        .setLngLat([pharmacy.long, pharmacy.lat])
+                        .addTo(map.current);
                 });
             });
         }
@@ -120,8 +119,8 @@ export default function BranchesDialog({ setBranchesDialogOpen }) {
                     color: p.id === pharmacy.id ? '#3a86ff' : '#f97818',
                     scale: 0.8
                 })
-                .setLngLat([p.long, p.lat])
-                .addTo(map.current);
+                    .setLngLat([p.long, p.lat])
+                    .addTo(map.current);
             });
         }
     };
@@ -144,33 +143,28 @@ export default function BranchesDialog({ setBranchesDialogOpen }) {
     }
 
     return (
-        <div className="locations" style={{ padding: '20px', backgroundColor: '#fff', borderRadius: '8px', maxWidth: '1200px', margin: '0 auto' }}>
-            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '20px' }}>
-                <h1 style={{ margin: 0 }}>Our Pharmacies</h1>
-                <Button
-                    variant="outlined"
-                    onClick={() => setBranchesDialogOpen(false)}
-                    style={{ textTransform: 'none' }}
-                >
-                    Close
-                </Button>
+        <div>
+            <div>
+                <h1>Our Pharmacies</h1>
             </div>
 
-            <div style={{ marginBottom: '20px' }}>
-                <label htmlFor="pharmacyType" style={{ marginRight: '10px' }}>Pharmacy Type: </label>
-                <select
-                    id="pharmacyType"
-                    value={selectedType}
-                    onChange={handleTypeChange}
-                    style={{ padding: '5px', borderRadius: '4px' }}
-                >
-                    <option value="type01">Type 01</option>
-                    <option value="type02">Type 02</option>
-                </select>
-            </div>
+            <div className="locationsContainer" >
 
-            <div className='locationsContainer' style={{ display: 'flex', gap: '20px' }}>
-                <div className='pharmaciesList' style={{ width: '350px', overflowY: 'auto', maxHeight: '700px' }}>
+                <div className='pharmaciesList'>
+
+                    <div>
+                        <label htmlFor="pharmacyType">Pharmacy Type: </label>
+                        <select
+                            id="pharmacyType"
+                            value={selectedType}
+                            onChange={handleTypeChange}
+                            style={{ padding: '5px', borderRadius: '4px' }}
+                        >
+                            <option value="type01">Type 01</option>
+                            <option value="type02">Type 02</option>
+                        </select>
+                    </div>
+
                     {pharmacies[selectedType]?.length > 0 ? (
                         <ul style={{ listStyle: 'none', padding: 0 }}>
                             {pharmacies[selectedType].map(pharmacy => (
@@ -203,7 +197,7 @@ export default function BranchesDialog({ setBranchesDialogOpen }) {
                                                             e.stopPropagation();
                                                             handleOpenInMaps();
                                                         }}
-                                                        style={{ 
+                                                        style={{
                                                             color: '#0066cc',
                                                             padding: 0,
                                                             textTransform: 'none',
@@ -242,16 +236,16 @@ export default function BranchesDialog({ setBranchesDialogOpen }) {
                 </div>
 
                 <div className='map' style={{ flex: 1, position: 'relative' }}>
-                    <div 
-                        ref={mapContainer} 
-                        style={{ 
-                            height: '700px', 
-                            width: '100%', 
+                    <div
+                        ref={mapContainer}
+                        style={{
+                            height: '700px',
+                            width: '100%',
                             borderRadius: '5px',
                             boxShadow: '0 2px 4px rgba(0,0,0,0.1)'
-                        }} 
+                        }}
                     />
-                    
+
                     {selectedPharmacy && (
                         <div style={{
                             position: 'absolute',
@@ -277,7 +271,7 @@ export default function BranchesDialog({ setBranchesDialogOpen }) {
                                 size="small"
                                 startIcon={<PlaceIcon />}
                                 onClick={handleOpenInMaps}
-                                style={{ 
+                                style={{
                                     marginTop: '10px',
                                     backgroundColor: '#0066cc',
                                     textTransform: 'none'
