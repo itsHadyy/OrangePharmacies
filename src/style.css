@@ -399,6 +399,7 @@ a {
   color: var(--lightGray);
   font-size: 16px;
   padding: 10px 50px;
+  box-sizing: border-box;
 }
 
 .futApp p {
@@ -968,9 +969,20 @@ iframe {
   color: white;
 }
 
-.pharmaciesList ul{
+.pharmaciesList ul {
   list-style: none;
   padding: 0;
+}
+
+.mapBox {
+  height: 100%;
+  width: 100%;
+  border-radius: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.pharmacyInfo {
+  text-align: left;
 }
 
 @media (max-width: 768px) {
