@@ -1,5 +1,3 @@
-import Slideshow from '../../components/en/Slideshow';
-import { Link } from 'react-router-dom';
 import { useState } from "react";
 
 function ArInsurance() {

@@ -4,7 +4,7 @@ import { useState } from 'react';
 import BranchesDialog from '../../components/en/BranchesDialog';
 function Locations() {
     const img01 = '/media/bannersEnglish/LOCATIONS-IN.png';
-    const [setBranchesDialogOpen] = useState(false);
+    // const [setBranchesDialogOpen] = useState(false);
 
     // const [pharmacies, setPharmacies] = useState({
     //     type01: [],

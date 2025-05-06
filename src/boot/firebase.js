@@ -1,14 +1,12 @@
 import { initializeApp } from "firebase/app";
-import { getAnalytics } from "firebase/analytics";
 
 import {
   browserLocalPersistence,
   initializeAuth,
-  connectAuthEmulator,
 } from "firebase/auth";
-import { getFirestore, connectFirestoreEmulator } from "firebase/firestore";
-import { getFunctions, connectFunctionsEmulator } from "firebase/functions";
-import { getStorage, connectStorageEmulator } from "firebase/storage";
+import { getFirestore } from "firebase/firestore";
+import { getFunctions } from "firebase/functions";
+import { getStorage } from "firebase/storage";
 
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
@@ -26,10 +24,10 @@ const firebaseConfig = {
 const app = initializeApp(firebaseConfig);
 
 const auth = initializeAuth(app, {
-    persistence: browserLocalPersistence,
-  });
-  const firestore = getFirestore(app);
-  const functions = getFunctions(app);
-  const storage = getStorage(app);
-  const db = getFirestore(app);
-export {firestore,auth,functions,storage,db}
+  persistence: browserLocalPersistence,
+});
+const firestore = getFirestore(app);
+const functions = getFunctions(app);
+const storage = getStorage(app);
+const db = getFirestore(app);
+export { firestore, auth, functions, storage, db }

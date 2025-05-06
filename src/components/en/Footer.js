@@ -18,10 +18,10 @@ const Footer = () => {
                     <div className="download-section">
                         <h3>Download our app Now!</h3>
                         <div className='appStoreContainer'>
-                            <a href='https://www.apple.com/app-store/' target='_blank'>
+                            <a href='https://www.apple.com/app-store/'>
                                 <img src={img02} alt="" />
                             </a>
-                            <a href='https://www.apple.com/app-store/' target='_blank'>
+                            <a href='https://www.apple.com/app-store/'>
                                 <img src={img03} alt="" />
                             </a>
                         </div>
