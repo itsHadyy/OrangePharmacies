@@ -156,8 +156,8 @@ export default function BranchesDialog() {
     }
 
     return (
-        <div className="locationsContainer" style={{ display: 'flex', height: '100%' }}>
-            <div className='pharmaciesList' style={{ width: '40%', padding: '20px', borderRight: '1px solid #eee' }}>
+        <div className="locationsContainer">
+            <div className='pharmaciesList'>
                 <FormControl fullWidth size="small" style={{ marginBottom: '20px', color: '#10125A' }}>
                     <InputLabel id="pharmacy-type-label" style={{ color: '#10125A'}}>Pharmacy Type</InputLabel>
                     <Select

@@ -835,14 +835,19 @@ form .arrow {
 }
 
 .locationsContainer {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 60px;
+  display: flex;
+  height: 100%;
+  gap: 20px;
 }
 
 .pharmaciesList {
   max-height: 70vh;
   overflow-y: auto;
+
+  width: 40%; 
+  padding: 20px; 
+  border-right: 1px solid #eee;
+
   /* Shows scrollbar only when needed but will force it to stay visible with the next rules */
 
   /* Firefox */
@@ -1282,5 +1287,25 @@ iframe {
 
   .incuranceContainer .btn {
     padding: 10px 20px;
+  }
+
+  .locations {
+    padding: 20px;
+  }
+
+  .locationsContainer{
+    display: block;
+  }
+
+  .pharmaciesList{
+    width: 100%;
+    padding: 20px 0;
+    border: none;
+    height: 50vh;
+    margin-bottom: 20px;
+  }
+
+  .map{
+    height: 40vh !important;
   }
 }
