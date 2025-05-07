@@ -73,7 +73,7 @@ export default function BranchesDialog() {
             (!selectedPharmacy || !pharmacies[selectedType].some(p => p.id === selectedPharmacy.id))) {
             setSelectedPharmacy(pharmacies[selectedType][0]);
         }
-    }, [pharmacies, selectedType]);
+    }, [pharmacies, selectedType, selectedPharmacy]);
 
     useEffect(() => {
         if (!mapContainer.current || !selectedPharmacy) return;
