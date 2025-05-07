@@ -1,4 +1,4 @@
-import { useState } from 'react';
+// import { useState } from 'react';
 // import pharmaciesType01 from '../../data/type1_pharmacies.json';
 // import pharmaciesType02 from '../../data/type2_pharmacies.json';
 import BranchesDialog from '../../components/en/BranchesDialog';
