@@ -6,8 +6,9 @@ function About() {
     return (
         <div className="sub">
             <Slideshow />
-            <div className='home01'>
+            <div className='home01'> 
                 <div>
+                    
                     <h1>
                         Orange Pharma
                     </h1>
